@@ -24,7 +24,7 @@
 		657DBFA72B237FFA0023AB98 /* Warrior_Run_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 657DBF9F2B237FFA0023AB98 /* Warrior_Run_4.png */; };
 		657DBFA82B237FFA0023AB98 /* Warrior_Run_6.png in Resources */ = {isa = PBXBuildFile; fileRef = 657DBFA02B237FFA0023AB98 /* Warrior_Run_6.png */; };
 		657DBFA92B237FFA0023AB98 /* Warrior_Run_7.png in Resources */ = {isa = PBXBuildFile; fileRef = 657DBFA12B237FFA0023AB98 /* Warrior_Run_7.png */; };
-		657DBFAB2B2380080023AB98 /* Textures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657DBFAA2B2380080023AB98 /* Textures.swift */; };
+		7853FBD32B270764008B06D8 /* Textures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7853FBD22B270764008B06D8 /* Textures.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,7 +46,7 @@
 		657DBF9F2B237FFA0023AB98 /* Warrior_Run_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Warrior_Run_4.png; sourceTree = "<group>"; };
 		657DBFA02B237FFA0023AB98 /* Warrior_Run_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Warrior_Run_6.png; sourceTree = "<group>"; };
 		657DBFA12B237FFA0023AB98 /* Warrior_Run_7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Warrior_Run_7.png; sourceTree = "<group>"; };
-		657DBFAA2B2380080023AB98 /* Textures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Textures.swift; path = "../../../Downloads/DragQueen-main/DragGame/DragGame/Textures.swift"; sourceTree = "<group>"; };
+		7853FBD22B270764008B06D8 /* Textures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Textures.swift; path = ../Textures.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +83,7 @@
 				654127992B221C8C007789E4 /* GameScene.sks */,
 				6541279B2B221C8C007789E4 /* Actions.sks */,
 				6541279D2B221C8C007789E4 /* GameScene.swift */,
-				657DBFAA2B2380080023AB98 /* Textures.swift */,
+				7853FBD22B270764008B06D8 /* Textures.swift */,
 				657DBF8C2B2354C40023AB98 /* Controller */,
 				654127A42B221C8C007789E4 /* Assets.xcassets */,
 				657DBF992B237FFA0023AB98 /* Run */,
@@ -202,7 +202,7 @@
 				6541279E2B221C8C007789E4 /* GameScene.swift in Sources */,
 				657DBF892B2354A50023AB98 /* StartViewController.swift in Sources */,
 				654127982B221C8C007789E4 /* AppDelegate.swift in Sources */,
-				657DBFAB2B2380080023AB98 /* Textures.swift in Sources */,
+				7853FBD32B270764008B06D8 /* Textures.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
